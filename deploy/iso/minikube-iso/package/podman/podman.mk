@@ -1,6 +1,7 @@
 PODMAN_VERSION = v2.0.0
 PODMAN_COMMIT = eec482cae3289ecaad45c602629657da7062ce9c
-PODMAN_SITE = https://github.com/containers/libpod/archive
+#PODMAN_SITE = https://github.com/containers/libpod/archive
+PODMAN_SITE = https://github.com/containers/podman/archive
 PODMAN_SOURCE = $(PODMAN_VERSION).tar.gz
 PODMAN_LICENSE = Apache-2.0
 PODMAN_LICENSE_FILES = LICENSE
